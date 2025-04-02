@@ -16,7 +16,7 @@ Welcome to **MazeRoamer**, a dynamic maze game generator built with JavaScript a
 
 ## Demo
 
-Try it out live! 
+Try it out live! https://makalin.github.io/MazeRoamer/
 
 ## Installation
 
