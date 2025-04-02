@@ -1,5 +1,7 @@
 # MazeRoamer - Maze Game Generator
 
+![MazeRoamer Logo](logo.png)
+
 Welcome to **MazeRoamer**, a dynamic maze game generator built with JavaScript and Three.js. Create and explore randomly generated mazes in both 2D top-down and 3D first-person views, featuring smooth character movement, customizable themes (including a Doom-inspired style), and gradient wall aesthetics. Navigate your character through intricate labyrinths, race against the clock, and switch between vibrant and gritty atmospheres—all in your browser!
 
 ## Features
